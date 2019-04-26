@@ -41,50 +41,50 @@ Google Scholar H-Index: 9
 
 ### Preprint/under review
 
-Thompson WH, Wright J, Shine JM, Poldrack RA (preprint) The identification of temporal communities through trajectory clustering correlates with single-trial behavioural fluctuations in neuroimaging data. https://doi.org/10.1101/617027 
+Thompson WH, Wright J, Shine JM, Poldrack RA (preprint) The identification of temporal communities through trajectory clustering correlates with single-trial behavioural fluctuations in neuroimaging data. [Full text](https://doi.org/10.1101/617027) 
 
-Lurie D., Kessler D., Bassett D., Betzel R, Breakspear M, Keiholz S, Kucyi A, Liégeois R, Lindquist M, McIntosh A, Polrdrack R, Shine J, Thompson W, Calhoun V. (preprint) On the nature of resting fMRI and time-varying connectivity (DOI: 10.17605/OSF.IO/FA6ZR)
+Daniel L, Daniel K, Danielle B, Richard B, Breakspear M, Shella K, Kucyi A, Liégeois R, Lindquist M, McIntosh A,  Poldrack R, Shine J, Thompson W, Bielczyk N, Douw L, Kraft D, Miller R, Muthuraman M, Pasquini L, Razi Adeel, Vidaurre D, Xie H, Calhoun V  (preprint) On the nature of resting fMRI and time-varying connectivity. [Full text](https://psyarxiv.com/xtzre/)
 
 ### 2018
 
-Fransson, P., Schiffler, B.C., & Thompson, W.H. (2018). Brain network segregation and integration during an epoch-related working memory fMRI experiment. *NeuroImage*. 178. 147-161.
+Fransson, P., Schiffler, B.C., & Thompson, W.H. (2018). Brain network segregation and integration during an epoch-related working memory fMRI experiment. *NeuroImage*. 178. 147-161. [Full text](https://www.sciencedirect.com/science/article/pii/S1053811918304476/pdfft?md5=6173b135ad3571960986597488a7ef4d&pid=1-s2.0-S1053811918304476-main.pdf)
 
 Thompson, W. H., Richter,C G., Plavén-Sigray, P & Fransson, P. (2018) Simulations to benchmark time-varying connectivity methods for fMRI. *PLoS Computational Biology*. 14(5). e1006196
-[link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006196)
+[Full text](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006196)
 
 Thompson, W. H., & Fransson, P. (2018) A common framework for the problem of deriving estimates of dynamic functional brain connectivity. *NeuroImage*. 172. 896-902.
 
 ### 2017
 
-Plavén-Sigray, P., Matheson GJ, Schiffler BC, Thompson WH (2017): The readability of scientific texts is decreasing over time. *eLife*, 6:e27725. [link](https://elifesciences.org/articles/27725)
+Plavén-Sigray, P., Matheson GJ, Schiffler BC, Thompson WH (2017): The readability of scientific texts is decreasing over time. *eLife*, 6:e27725. [Full text](https://elifesciences.org/articles/27725)
 
-Richter C. G.\*, Thompson W. H.\*, Bosman C. A., & Fries P. (2017) Top-down modulation of stimulus drive via beta-gamma cross-frequency interaction. *Journal of Neuroscience*, 37 (28), 6698-6711. (\* = co-first authors). <br>[link](http://www.jneurosci.org/content/37/28/6698)
+Richter C. G.\*, Thompson W. H.\*, Bosman C. A., & Fries P. (2017) Top-down modulation of stimulus drive via beta-gamma cross-frequency interaction. *Journal of Neuroscience*, 37 (28), 6698-6711. (\* = co-first authors). <br>[Full text](http://www.jneurosci.org/content/37/28/6698)
 
 Thompson W. H., Brantefors P., Fransson P. (2017): From static to temporal network theory – applications to functional brain connectivity. *Network Neuroscience*. 1 (2), 69-99.
-<br>[link](http://www.mitpressjournals.org/doi/pdf/10.1162/NETN_a_00011)
+<br>[Full text](http://www.mitpressjournals.org/doi/pdf/10.1162/NETN_a_00011)
 
 Thompson W. H., Fransson P. (2017): Spatial confluence of psychological and anatomical network constructs in the human brain revealed by a mass meta-analysis of fMRI activation. *Scientific Reports* 7:44259.
-<br>[link](https://www.nature.com/articles/srep44259_
+<br>[Full text](https://www.nature.com/articles/srep44259)
 
 ### 2016
 
-Thompson W. H., Fransson P. (2016a): Bursty properties revealed in large-scale brain networks with a point-based method for dynamic functional connectivity. *Scientific Reports* 6:39156. <br> [link](https://www.nature.com/articles/srep39156)
+Thompson W. H., Fransson P. (2016a): Bursty properties revealed in large-scale brain networks with a point-based method for dynamic functional connectivity. *Scientific Reports* 6:39156. <br> [Full text](https://www.nature.com/articles/srep39156)
 
-Thompson, W. H., & Fransson, P. (2016b). On stabilizing the variance of dynamic functional brain connectivity time series. *Brain Connectivity*, 6 (10). <br>  [link](http://online.liebertpub.com/doi/full/10.1089/brain.2016.0454)
+Thompson, W. H., & Fransson, P. (2016b). On stabilizing the variance of dynamic functional brain connectivity time series. *Brain Connectivity*, 6 (10). <br>  [Full text](http://online.liebertpub.com/doi/full/10.1089/brain.2016.0454)
 
 Thompson, W. H., Thelin, E. P., Lilja, A., Bellander, B.-M., & Fransson, P. (2016). Functional resting-state fMRI connectivity correlates with serum levels of the S100B protein in the acute phase of traumatic brain injury. *NeuroImage: Clinical*, 12. 1004-1012.
-<br>[link](http://www.sciencedirect.com/science/article/pii/S2213158216300821)
+<br>[Full text](http://www.sciencedirect.com/science/article/pii/S2213158216300821)
 
 ### 2015
 
 Richter, C. G., Thompson, W. H., Bosman, C. A., & Fries, P. (2015). A jackknife approach to quantifying single-trial correlation between covariance-based metrics undefined on a single-trial basis. *NeuroImage*, 114 57–70.
-<br>[link](http://doi.org/10.1016/j.neuroimage.2015.04.040)
+<br>[Full text](http://doi.org/10.1016/j.neuroimage.2015.04.040)
 
 Thompson, W. H., & Fransson, P. (2015). The mean–variance relationship reveals two possible strategies for dynamic brain connectivity analysis in fMRI. *Frontiers in Human Neuroscience*, 9, 1–7.
-<br>[link](http://doi.org/10.3389/fnhum.2015.00398)
+<br>[Full text](http://doi.org/10.3389/fnhum.2015.00398)
 
 Thompson, W. H., & Fransson, P. (2015). The frequency dimension of fMRI dynamic connectivity: network connectivity, functional hubs and integration in the resting brain. *NeuroImage*, 121, 227–242.
-<br>[link](http://doi.org/10.1016/j.neuroimage.2015.07.022)
+<br>[Full text](http://doi.org/10.1016/j.neuroimage.2015.07.022)
 
 
 ## Presentations
