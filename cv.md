@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-# Employment and education
+# Positions & Education
 
 2018-2020:
 __Post Doc__,
@@ -31,13 +31,9 @@ __MSc Brain and cognitive sciences__ (*cum laude*),
 <br>University of Amsterdam, the Netherlands.
 
 2006-2010:
-__BA Theoretical Philosophy__, <br>Gothenburg University, Sweden. Combined with 18 months Latin and Ancient Greek in St Andrews, Scotland.
+__BA Theoretical Philosophy__, <br>Gothenburg University, Sweden. 
 
 ## Publications
-
-### Metrics
-
-Google Scholar H-Index: 9
 
 ### Preprint/under review
 
@@ -53,12 +49,15 @@ Thompson, W. H., Richter,C G., Plavén-Sigray, P & Fransson, P. (2018) Simulatio
 [Full text](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006196)
 
 Thompson, W. H., & Fransson, P. (2018) A common framework for the problem of deriving estimates of dynamic functional brain connectivity. *NeuroImage*. 172. 896-902.
+<br>[Full test](https://www.sciencedirect.com/science/article/pii/S1053811917310819)
 
 ### 2017
 
-Plavén-Sigray, P., Matheson GJ, Schiffler BC, Thompson WH (2017): The readability of scientific texts is decreasing over time. *eLife*, 6:e27725. [Full text](https://elifesciences.org/articles/27725)
+Plavén-Sigray, P., Matheson GJ, Schiffler BC, Thompson WH (2017): The readability of scientific texts is decreasing over time. *eLife*, 6:e27725. 
+<br>[Full text](https://elifesciences.org/articles/27725)
 
-Richter C. G.\*, Thompson W. H.\*, Bosman C. A., & Fries P. (2017) Top-down modulation of stimulus drive via beta-gamma cross-frequency interaction. *Journal of Neuroscience*, 37 (28), 6698-6711. (\* = co-first authors). <br>[Full text](http://www.jneurosci.org/content/37/28/6698)
+Richter C. G.\*, Thompson W. H.\*, Bosman C. A., & Fries P. (2017) Top-down modulation of stimulus drive via beta-gamma cross-frequency interaction. *Journal of Neuroscience*, 37 (28), 6698-6711. (\* = co-first authors). 
+<br>[Full text](http://www.jneurosci.org/content/37/28/6698)
 
 Thompson W. H., Brantefors P., Fransson P. (2017): From static to temporal network theory – applications to functional brain connectivity. *Network Neuroscience*. 1 (2), 69-99.
 <br>[Full text](http://www.mitpressjournals.org/doi/pdf/10.1162/NETN_a_00011)
@@ -68,9 +67,11 @@ Thompson W. H., Fransson P. (2017): Spatial confluence of psychological and anat
 
 ### 2016
 
-Thompson W. H., Fransson P. (2016a): Bursty properties revealed in large-scale brain networks with a point-based method for dynamic functional connectivity. *Scientific Reports* 6:39156. <br> [Full text](https://www.nature.com/articles/srep39156)
+Thompson W. H., Fransson P. (2016a): Bursty properties revealed in large-scale brain networks with a point-based method for dynamic functional connectivity. *Scientific Reports* 6:39156. 
+<br> [Full text](https://www.nature.com/articles/srep39156)
 
-Thompson, W. H., & Fransson, P. (2016b). On stabilizing the variance of dynamic functional brain connectivity time series. *Brain Connectivity*, 6 (10). <br>  [Full text](http://online.liebertpub.com/doi/full/10.1089/brain.2016.0454)
+Thompson, W. H., & Fransson, P. (2016b). On stabilizing the variance of dynamic functional brain connectivity time series. *Brain Connectivity*, 6 (10). 
+<br>  [Full text](http://online.liebertpub.com/doi/full/10.1089/brain.2016.0454)
 
 Thompson, W. H., Thelin, E. P., Lilja, A., Bellander, B.-M., & Fransson, P. (2016). Functional resting-state fMRI connectivity correlates with serum levels of the S100B protein in the acute phase of traumatic brain injury. *NeuroImage: Clinical*, 12. 1004-1012.
 <br>[Full text](http://www.sciencedirect.com/science/article/pii/S2213158216300821)
@@ -85,7 +86,6 @@ Thompson, W. H., & Fransson, P. (2015). The mean–variance relationship reveals
 
 Thompson, W. H., & Fransson, P. (2015). The frequency dimension of fMRI dynamic connectivity: network connectivity, functional hubs and integration in the resting brain. *NeuroImage*, 121, 227–242.
 <br>[Full text](http://doi.org/10.1016/j.neuroimage.2015.07.022)
-
 
 ## Presentations
 
@@ -109,22 +109,3 @@ Thompson, W. H., & Fransson, P. (2015). The frequency dimension of fMRI dynamic 
 Cross-frequency functional connectivity in attentive and preparatory states. Stockholm Brain Institute. *Talk.*
 
 2012: Functional role of top-down beta activity during pre-stimulus period from V4 to V1. Max Planck Retreat, Ringberg. *Talk*
-
-## Software
-
-- teneto (http://github.com/wiheto/teneto)
-- tvc_benchmarker (http://github.com/wiheto/tvc_benchmarker)
-- fetch_openfmri (http://github.com/wiheto/fetch_openfmri)
-
-
-## Ad hoc reviewer
-
-Plos Biology (1), Human brain mapping (5), Nature Communications (1), NeuroImage (2), Brain Topography (1), Plos one (1), Frontiers in Neuroscience (1). 
-
-Publons profile: https://publons.com/author/1244761/william-hedley-thompson
-
-## Teaching 
-
-- *Experimental psychology* (undergraduate level). 3 lectures per year in attention and emotion (2015-2017). 12 seminars and 1 workshop per year (2013-2017)
-
-- *Machine learning, tensorflow and Python* (PhD students), seminar series --- coordinator.
