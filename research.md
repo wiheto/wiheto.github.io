@@ -6,8 +6,6 @@ permalink: /research/
 
 ## The brain as a temporal network 
 
-![]('./_static/connectivityclock.png')
-
 My perspective is to view the brain as a system interacting over time. This involves quantifying the brain as a [network that changes through time]((https://www.mitpressjournals.org/doi/abs/10.1162/NETN_a_00011)).
 
 ### Theory 
